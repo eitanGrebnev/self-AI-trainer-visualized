@@ -4,10 +4,16 @@ This is still in progress. This is a project for training a local LLM on your ow
 
 The visualizer right now is depricated at the moment, however I'll work on reintegrating that soon. 
 
+
+TODO: add a guide on how users can run this themselves. 
+Potentially later on I'll explore adding self hosting features to this application and converting this into a full stack application
+
 The current task I've been working on is a user friendly GUI and making this as accessable as possible. 
 here are some screenshots of the current application:
 
 <img width="1065" height="779" alt="image" src="https://github.com/user-attachments/assets/58677550-c48d-4de6-8b21-1f1a2ada7d54" />
 
 <img width="1069" height="770" alt="image" src="https://github.com/user-attachments/assets/d845f163-d4f1-46c6-84ab-d66b1dfbc761" />
+
+
 
